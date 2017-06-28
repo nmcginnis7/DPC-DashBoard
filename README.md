@@ -1,8 +1,3 @@
-# DPC-HandReceipt
-Repository for DPC Hand Receipt Application
+# DPC-DashBoard
+Repository for DPC Dashboard Application
 
-Database Tables:
-HandReceipt
-NSN
-Inventory
-IndividualItem
